@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+#Samplbutton{
+    background-color: blue;
+
+    border-style:ridge;
+}
